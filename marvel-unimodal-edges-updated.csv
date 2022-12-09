@@ -1,0 +1,93 @@
+Source,Target,Type
+Black Panther / T'chal,Loki [asgardian],Directed
+Black Panther / T'chal,Mantis / ? Brandt,Directed
+Black Panther / T'chal,Wolverine / Logan,Directed
+Wolverine / Logan,Black Panther / T'chal,Directed
+Dr. Strange / Stephen,Black Panther / T'chal,Directed
+Loki [asgardian],Black Panther / T'chal,Directed
+Scarlet Witch / Wanda,Black Panther / T'chal,Directed
+Iron Man / Tony Stark,Scarlet Witch / Wanda,Directed
+Iron Man / Tony Stark,Loki [asgardian],Directed
+Iron Man / Tony Stark,Dr. Strange / Stephen,Directed
+Iron Man / Tony Stark,Professor X / Charles,Directed
+Wolverine / Logan,Professor X / Charles,Directed
+Wolverine / Logan,Storm / Ororo Munroe S,Directed
+Scarlet Witch / Wanda,Iron Man / Tony Stark,Directed
+Scarlet Witch / Wanda,Mantis / ? Brandt,Directed
+Iron Man / Tony Stark,Wolverine / Logan,Directed
+Wolverine / Logan,Iron Man / Tony Stark,Directed
+Mr. Fantastic / Reed R,Human Torch / Johnny S,Directed
+Mr. Fantastic / Reed R,Iceman / Robert Bobby,Directed
+Iron Man / Tony Stark,Mantis / ? Brandt,Directed
+Mr. Fantastic / Reed R,Iron Man / Tony Stark,Directed
+Dr. Strange / Stephen,Scarlet Witch / Wanda,Directed
+Dr. Strange / Stephen,Marvel Girl / Jean Grey,Directed
+Scarlet Witch / Wanda,Dr. Strange / Stephen,Directed
+Dr. Strange / Stephen,Loki [asgardian],Directed
+Human Torch / Johnny S,Mr. Fantastic / Reed R,Directed
+Professor X / Charles,Cyclops / Scott Summer,Directed
+Professor X / Charles,Jack Of Hearts / Jack,Directed
+Scarlet Witch / Wanda,Loki [asgardian],Directed
+Wolverine / Logan,Cyclops / Scott Summer,Directed
+Wolverine / Logan,Marvel Girl / Jean Grey,Directed
+Marvel Girl / Jean Grey,Professor X / Charles,Directed
+Marvel Girl / Jean Grey,Cyclops / Scott Summer,Directed
+Loki [asgardian],Mantis / ? Brandt,Directed
+Loki [asgardian],Iron Man / Tony Stark,Directed
+Loki [asgardian],Dr. Strange / Stephen,Directed
+Professor X / Charles,Storm / Ororo Munroe S,Directed
+Professor X / Charles,Black Panther / T'chal,Directed
+Cyclops / Scott Summer,Professor X / Charles,Directed
+Cyclops / Scott Summer,Black Panther / T'chal,Directed
+Iceman / Robert Bobby,Human Torch / Johnny S,Directed
+Human Torch / Johnny S,Iceman / Robert Bobby,Directed
+Jack Of Hearts / Jack,Professor X / Charles,Directed
+Jack Of Hearts / Jack,Wolverine / Logan,Directed
+Iceman / Robert Bobby,Wolverine / Logan,Directed
+Wolverine / Logan,Scarlet Witch / Wanda,Directed
+Black Panther / T'chal,Dr. Strange / Stephen,Directed
+Mantis / ? Brandt,Iron Man / Tony Stark,Directed
+Mantis / ? Brandt,Wolverine / Logan,Directed
+Marvel Girl / Jean Grey,Iron Man / Tony Stark,Directed
+Wolverine / Logan,Dr. Strange / Stephen,Directed
+Dr. Strange / Stephen,Wolverine / Logan,Directed
+Thor,Dr. Strange / Stephen,Directed
+Thor,Iron Man / Tony Stark,Directed
+Thor,Wolverine / Logan,Directed
+Thor,Black Panther / T'chal,Directed
+Thor,Loki [asgardian],Directed
+Thor,Black Widow / Natasha,Directed
+Black Widow / Natasha,Thor,Directed
+Black Widow / Natasha,Iron Man / Tony Stark,Directed
+Black Widow / Natasha,Wolverine / Logan,Directed
+Black Widow / Natasha,Black Panther / T'chal,Directed
+Black Widow / Natasha,Dr. Strange / Stephen,Directed
+Deadpool / Jack / Wade W,Thor,Directed
+Deadpool / Jack / Wade W,Iron Man / Tony Stark,Directed
+Deadpool / Jack / Wade W,Wolverine / Logan,Directed
+Deadpool / Jack / Wade W,Dr. Strange / Stephen,Directed
+Hulk / Dr Bruce Banner,Thor,Directed
+Hulk / Dr Bruce Banner,Iron Man / Tony Stark,Directed
+Hulk / Dr Bruce Banner,Wolverine / Logan,Directed
+Hulk / Dr Bruce Banner,Dr. Strange / Stephen,Directed
+Hulk / Dr Bruce Banner,Loki [asgardian],Directed
+Hulk / Dr Bruce Banner,Black Panther / T'chal,Directed
+Dr. Strange / Stephen,Thor,Directed
+Iron Man / Tony Stark,Thor,Directed
+Wolverine / Logan,Thor,Directed
+Black Panther / T'chal,Thor,Directed
+Black Widow / Natasha,Thor,Directed
+Thor,Black Widow / Natasha,Directed
+Iron Man / Tony Stark,Black Widow / Natasha,Directed
+Wolverine / Logan,Black Widow / Natasha,Directed
+Black Panther / T'chal,Black Widow / Natasha,Directed
+Dr. Strange / Stephen,Black Widow / Natasha,Directed
+Thor,Deadpool / Jack / Wade W,Directed
+Iron Man / Tony Stark,Deadpool / Jack / Wade W,Directed
+Wolverine / Logan,Deadpool / Jack / Wade W,Directed
+Dr. Strange / Stephen,Deadpool / Jack / Wade W,Directed
+Thor,Hulk / Dr Bruce Banner,Directed
+Iron Man / Tony Stark,Hulk / Dr Bruce Banner,Directed
+Wolverine / Logan,Hulk / Dr Bruce Banner,Directed
+Dr. Strange / Stephen,Hulk / Dr Bruce Banner,Directed
+Black Panther / T'chal,Hulk / Dr Bruce Banner,Directed
